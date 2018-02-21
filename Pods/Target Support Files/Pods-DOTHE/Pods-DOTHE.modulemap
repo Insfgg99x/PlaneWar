@@ -1,0 +1,6 @@
+framework module Pods_DOTHE {
+  umbrella header "Pods-DOTHE-umbrella.h"
+
+  export *
+  module * { export * }
+}

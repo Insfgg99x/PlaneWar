@@ -1,7 +1,7 @@
 # DOTHE
 Defense Of The Home保卫家园，用Swift 4写的一个简单的SpriteKit框架写的射击类小游戏
 
--[x]移动
+- [x] 移动
 - [x]发射子弹
 - [x]自动发射子弹
 - [x]背景音乐
